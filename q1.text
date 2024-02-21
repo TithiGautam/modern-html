@@ -1,0 +1,17 @@
+Features of HTML5 :
+
+1.Semantics: Enhanced semantic tags like <header>,<nav>,<footer>,provide better structure to web documents.
+
+2.Multimedia Elements : Native support for embedding audio and video elements using
+                        <audio>,and <video> tags reducing the reliance on plugins like
+                        flash.
+
+3.Geolocation: The Geolocation API allows web application to access the user's loacation
+               facilitating location-based services.
+
+4.Form controls: Enhanced form controls including new inputs types like <input type ="data">,
+                 <input type ="email">,etc for better user input handling.
+
+5.SVG : HTML5 support  SVG ,allowing for the integration of vector graphics directly integration
+        web pages.
+                                
